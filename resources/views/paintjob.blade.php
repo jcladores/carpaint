@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 
-<div id="queuedivi" style="margin:100px">
+<div id="queuediv" style="margin:100px">
 	<div><span><b>Paint Job in Progress</b><span></div>
 	<div class="aParent" style="width:1200px">
 		<div style="width:60%">
